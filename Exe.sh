@@ -4,7 +4,7 @@ figlet "Shadow"
 
 echo "press 1 to start holhe "
 echo "press 2 to start wifi jaming"
-echo "press 3 to start Android "
+echo "press 3 to start TBomb "
 echo "press 4 to start Ip-Tracer"
 echo "press 5 to start RED_HAWK"
 echo "press Q to exit"
@@ -58,6 +58,6 @@ elif [ $x == 'Q' ]; then
 exit
 
 else 
- echo "wrong way"
+ echo "leave it
 
  fi
