@@ -58,6 +58,6 @@ elif [ $x == 'Q' ]; then
 exit
 
 else 
- echo "leave it
+ echo "leave it"
 
  fi
